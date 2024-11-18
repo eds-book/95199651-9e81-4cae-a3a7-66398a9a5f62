@@ -10,9 +10,6 @@ dependencies:
   - xmltodict
   - opencv
   - matplotlib
-  - pytorch
-  - torchvision
-  - huggingface_hub
   - geopandas
   - pip
   - pip:
