@@ -5,7 +5,9 @@ dependencies:
   - python
   - jupyter
   - pooch
+  - py7zr
+  - scikit-image
+  - xmltodict
+  - opencv
+  - matplotlib
   - geopandas
-  - pip
-  - pip:
-      - deepforest==1.4.0
