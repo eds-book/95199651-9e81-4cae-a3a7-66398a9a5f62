@@ -6,7 +6,6 @@ dependencies:
   - pooch
   - scikit-image
   - xmltodict
-  - opencv
   - matplotlib
   - pytorch
   - torchvision
