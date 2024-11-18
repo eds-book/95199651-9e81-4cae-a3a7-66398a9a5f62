@@ -3,7 +3,6 @@ channels:
   - conda-forge
 dependencies:
   - python
-  - jupyter
   - pooch
   - py7zr
   - scikit-image
