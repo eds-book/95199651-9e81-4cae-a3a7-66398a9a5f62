@@ -4,7 +4,6 @@ channels:
 dependencies:
   - python
   - pooch
-  - xmltodict
   - matplotlib
   - pytorch
   - torchvision
