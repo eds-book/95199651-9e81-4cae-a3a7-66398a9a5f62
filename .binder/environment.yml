@@ -4,6 +4,8 @@ channels:
 dependencies:
   - python
   - jupyter
+  - pytorch
+  - torchvision
   - pip
   - pip:
       - deepforest==1.4.0
