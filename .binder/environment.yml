@@ -4,6 +4,12 @@ channels:
 dependencies:
   - python
   - jupyter
+  - pooch
+  - py7zr
+  - scikit-image
+  - xmltodict
+  - opencv
+  - matplotlib
   - pytorch
   - torchvision
   - huggingface_hub
