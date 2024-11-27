@@ -6,7 +6,7 @@ dependencies:
   - jupyter
   - pytorch
   - torchvision
-  - geopandas
+  - huggingface_hub
   - pip
   - pip:
       - deepforest==1.4.0
