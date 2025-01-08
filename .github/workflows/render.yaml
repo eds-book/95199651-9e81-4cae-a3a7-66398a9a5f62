@@ -87,7 +87,7 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
          github_token: ${{ secrets.GITHUB_TOKEN }}
-         branch: render
+         branch: main
          force: true
       - uses: actions/checkout@v4
       - name: Setup Pages
