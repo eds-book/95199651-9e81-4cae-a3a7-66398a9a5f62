@@ -34,7 +34,7 @@ jobs:
 #      id-token: write
 #      pages: write
 
-    if: github.repository_owner == 'eds-book'
+    if: github.repository_owner == 'eds-book2'
     strategy:
       fail-fast: false
       matrix:
