@@ -1,4 +1,4 @@
 [build]
   base = "."
   command = "npm install -g mystmd && myst build --html"
-  publish = "_build2/html"
+  publish = "_build/html"
