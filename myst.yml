@@ -75,7 +75,7 @@ project:
   date: 2024-12-05
   toc:
     - file: index.md
-    - file: notebook/notebook.ipynb
+    - file: notebook.ipynb
   exports:
     - format: pdf
       template: curvenote
@@ -93,4 +93,3 @@ site:
   template: book-theme
   options:
     hide_toc: true
-    folders: true
