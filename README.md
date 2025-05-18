@@ -1,8 +1,8 @@
 # Livestock detection (DeepForest)
 
 <p align="center">
-    <a href="https://github.com/eds-book/95199651-9e81-4cae-a3a7-66398a9a5f62/actions/workflows/nightly-build.yaml/badge.svg">
-        <img alt="Continuous integration badge" src="https://github.com/eds-book/95199651-9e81-4cae-a3a7-66398a9a5f62/actions/workflows/nightly-build.yaml/badge.svg">
+    <a href="https://github.com/eds-book/95199651-9e81-4cae-a3a7-66398a9a5f62/actions/workflows/monthly-build.yaml/badge.svg">
+        <img alt="Continuous integration badge" src="https://github.com/eds-book/95199651-9e81-4cae-a3a7-66398a9a5f62/actions/workflows/monthly-build.yaml/badge.svg">
     </a>
     <a href="http://mybinder.org/v2/gh/eds-book-gallery/95199651-9e81-4cae-a3a7-66398a9a5f62/main?labpath=notebook.ipynb">
         <img alt="Binder" src="https://mybinder.org/badge_logo.svg">
