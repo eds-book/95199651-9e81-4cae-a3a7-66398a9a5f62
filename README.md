@@ -10,7 +10,9 @@
     <a href="https://zenodo.org/badge/latestdoi/880931043">
         <img alt="doi" src="https://zenodo.org/badge/880931043.svg">
     </a>
-    <br/>
+    <a href="https://github.com/alan-turing-institute/environmental-ds-book/pull/6">
+        <img alt="notebook review" src="https://img.shields.io/badge/view-review-purple">
+    </a>
 </p>
 
 <p align="center">

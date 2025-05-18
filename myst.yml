@@ -90,6 +90,10 @@ project:
       version: v2025.05.0
       license: MIT
       license-url: https://opensource.org/license/MIT
+      identifiers:
+        - description: "Open review report for this notebook"
+          type: url
+          value: "https://github.com/eds-book/notebooks-reviews/issues/6"
   bibliography:
     - references.bib
 
