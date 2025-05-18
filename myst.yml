@@ -38,7 +38,14 @@ project:
       affiliations:
         - turing
   editors:
-    - acoca
+    - id: acoca
+      name: Alejandro Coca-Castro
+      orcid: 0000-0002-9264-1539
+      github: acocac
+      roles:
+        - Writing – review & editing
+      affiliations:
+        - turing
   affiliations:
     - id: qmul
       name: Queen Mary University of London
