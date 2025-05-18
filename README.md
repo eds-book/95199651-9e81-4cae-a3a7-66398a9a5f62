@@ -55,4 +55,3 @@ Following the guidelines in <a href="https://deepforest.readthedocs.io/en/v1.4.1
 ```bash
 conda install -c conda-forge geopandas
 ```
-</div>
