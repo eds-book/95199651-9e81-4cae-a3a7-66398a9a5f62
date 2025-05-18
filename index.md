@@ -1,4 +1,0 @@
----
-author: EDS book community
----
-
