@@ -1,4 +1,4 @@
-name: Build and execute notebook
+name: Build and execute
 
 on:
   push:
