@@ -11,17 +11,16 @@ authors:
     given-names: Cameron
     affiliation: Queen Mary University of London
     email: c.appel@qmul.ac.uk
-    website: https://github.com/camappel
 date-released: '2024-12-05'
 contact:
   - family-names: Appel
     given-names: Cameron
     affiliation: Queen Mary University of London
     email: c.appel@qmul.ac.uk
-    website: https://github.com/camappel
 identifiers:
-  - type: doi
-    value: 10.5281/zenodo.14279235
+  - description: Open review report for this notebook
+    type: url
+    value: https://github.com/eds-book/notebooks-reviews/issues/6
 keywords:
   - Agriculture
   - Modelling
