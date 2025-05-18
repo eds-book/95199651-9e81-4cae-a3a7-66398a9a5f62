@@ -12,18 +12,19 @@ project:
       name: Cameron Appel
       corresponding: true
       email: c.appel@qmul.ac.uk
-      url: https://github.com/camappel
+      github: camappel
       roles:
         - Investigation
         - Software
         - Visualization
       affiliations:
         - qmul
+
   reviewers:
     - id: ewhite
       name: Ethan P. White
       orcid: 0000-0001-6728-7745
-      url: https://github.com/ethanwhite
+      github: ethanwhite
       roles:
         - Writing – review & editing
       affiliations:
@@ -31,7 +32,7 @@ project:
     - id: lvanzeeland
       name: Louisa Van Zeeland
       orcid: 0009-0005-0392-4377
-      url: https://github.com/louisavz
+      github: louisavz
       roles:
         - Writing – review & editing
       affiliations:
@@ -79,7 +80,7 @@ project:
   exports:
     - format: cff
       type: software
-      version: v2.0.0
+      version: v2025.05.0
       license: MIT
       license-url: https://opensource.org/license/MIT
   bibliography:
