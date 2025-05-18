@@ -22,7 +22,7 @@
 ### Running on Binder
 The notebook is designed to be launched from Binder. 
 
-Click the **Launch Binder** button at the top level of the repository
+Click the **Launch Binder** button at the top level of the repository.
 
 ### Running locally
 You may also download the notebook from GitHub to run it locally:
