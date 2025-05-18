@@ -1,0 +1,20 @@
+name: Build and push container image
+
+on:
+  schedule:
+    - cron: "*/3 * * * *"
+  workflow_call:
+    secrets:
+      QUAY_USERNAME:
+        description: 'Username for Quay.io'
+        required: false
+      QUAY_PASSWORD:
+        description: 'Password for Quay.io'
+        required: false
+
+jobs:
+  build-and-push:
+    uses: eds-book/notebooks-workflows/.github/workflows/build.yaml@main
+    secrets:
+      QUAY_USERNAME: ${{ secrets.QUAY_USERNAME }}
+      QUAY_PASSWORD: ${{ secrets.QUAY_PASSWORD }}
