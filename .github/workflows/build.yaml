@@ -7,7 +7,7 @@ on:
       - 'README.md'
 
 jobs:
-  build-and-push:
+  build-and-execute:
     uses: eds-book/notebooks-workflows/.github/workflows/build.yaml@main
     secrets:
       QUAY_USERNAME: ${{ secrets.QUAY_USERNAME }}
