@@ -7,7 +7,7 @@
     <a href="http://mybinder.org/v2/gh/eds-book-gallery/95199651-9e81-4cae-a3a7-66398a9a5f62/main?labpath=notebook.ipynb">
         <img alt="Binder" src="https://mybinder.org/badge_logo.svg">
     </a>
-    <a href="https://zenodo.org/badge/latestdoi/880931043">
+    <a href="https://doi.org/10.5281/zenodo.14279235">
         <img alt="doi" src="https://zenodo.org/badge/880931043.svg">
     </a>
     <a href="https://github.com/alan-turing-institute/environmental-ds-book/pull/6">
