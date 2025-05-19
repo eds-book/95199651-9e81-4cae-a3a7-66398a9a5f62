@@ -1,5 +1,5 @@
 # Reference https://mybinder.readthedocs.io/en/latest/howto/gh-actions-badges.html
-name: Test this PR on Binder Badge
+name: test-binder
 
 on:
   pull_request_target:
