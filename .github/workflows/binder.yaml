@@ -1,4 +1,3 @@
-# Reference https://mybinder.readthedocs.io/en/latest/howto/gh-actions-badges.html
 name: test-binder
 
 on:
