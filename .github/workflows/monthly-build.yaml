@@ -2,7 +2,7 @@ name: monthly-build
 
 on:
   schedule:
-    - cron: "0 9 1 * *" # At 09:00 UTC on the 1st of each month
+    - cron: "*/3 0 0 * *" # At 09:00 UTC on the 1st of each month
 
 jobs:
   build-and-execute:
