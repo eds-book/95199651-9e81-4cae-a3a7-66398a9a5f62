@@ -1,4 +1,4 @@
-name: Build and execute
+name: publish
 
 on:
   push:
@@ -12,3 +12,7 @@ jobs:
     secrets:
       QUAY_USERNAME: ${{ secrets.QUAY_USERNAME }}
       QUAY_PASSWORD: ${{ secrets.QUAY_PASSWORD }}
+
+  deploy:
+    needs: build-and-execute
+    uses: eds-book/notebooks-workflows/.github/workflows/deploy.yaml@main
