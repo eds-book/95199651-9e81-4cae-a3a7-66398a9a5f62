@@ -2,7 +2,7 @@ name: MyST GitHub Pages Deploy
 
 on:
   workflow_run:
-    workflows: ["Build and execute"]
+    workflows: ["Build and execute","monthly-build"]
     branches: [main]
     types: [completed]
 
